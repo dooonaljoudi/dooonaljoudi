@@ -7,7 +7,6 @@
  </abc>
 </h2> 
 
-### AI Student & Fullstack Developer
 
 ## 🛠️ Tech Stack
 - AI/ML: Python, TensorFlow, Scikit-learn
