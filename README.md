@@ -7,6 +7,19 @@
  </abc>
 </h2> 
 
+### AI Student & Fullstack Developer
+
+## 🛠️ Tech Stack
+- AI/ML: Python, TensorFlow, Scikit-learn
+
+
+## 📫 Connect
+- LinkedIn: https://www.linkedin.com/in/dana-al-joudi-763336364?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+- GitHub: https://github.com/dooonaljoudi
+
+## 🎯 Currently Learning
+- Machine Learning & Deep Learning
+- Cloud Computing
 <!--
 **dooonaljoudi/dooonaljoudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
